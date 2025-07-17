@@ -78,7 +78,7 @@ You can improve or expand the app with:
 
 ## 🙌 Credits
 
-Created by \M.Rahul Karthik
+Created by M.Rahul Karthik
 You are free to fork, enhance, and use this code for personal or educational purposes.
 
 ---
